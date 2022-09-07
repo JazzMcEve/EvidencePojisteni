@@ -1,0 +1,15 @@
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.exe
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.deps.json
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.runtimeconfig.json
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.dll
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.pdb
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.dll
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\refint\EvidencePojisteni.dll
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.pdb
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Users\jazz\Desktop\Project\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\ref\EvidencePojisteni.dll
